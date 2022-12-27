@@ -22,6 +22,6 @@ millis2 = int(round(time.time() * 1000))
 print("processing time in server " ,json_data['processing_time'])
 print("tootal time from client and all is  " ,str(millis2-millis))
 print(json_data['precentegeoffight'])
-msgg = 'حدث عنف في العلاوي';
+msgg = 'I am done ';
 #if float(json_data['precentegeoffight']) >= 0.78:
 #    reqs = requests.get('https://mamonrasool.com/mastermamon/pushmamon.php?USBBAN10388=azm00774615nEeaoknva110205678&mapaaSSS13455znb0=Azncb87268$$22mmsknnns0199556782&MSG='+msgg)
